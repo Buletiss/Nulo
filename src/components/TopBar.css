@@ -1,0 +1,33 @@
+.NavBar-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color: black;
+    font-size: 1.2rem;
+    padding: 20px;
+    
+}
+
+.NavBar-container img {    
+    padding-left: 20px;
+    max-width: 150px;
+    max-height: 50px;
+    width: auto;
+    height: auto;
+}
+
+.NavBar ul, li{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 57px;
+    
+    width: 515px;
+    height: 24px;
+    left: 893px;
+    top: 84.79px;
+    color: white;
+}
+
